@@ -1,1 +1,3 @@
-# Curso---Danki-Code
+# Curso - Danki-Code
+
+## Desenvolvimento de jogos
